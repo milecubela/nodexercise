@@ -57,9 +57,6 @@ async function sendMails(emails) {
     // U log file sprema url da se pogleda testni mail
     winston.info(nodemailer.getTestMessageUrl(info))
 }
-   
-    
-
 
 
 module.exports = router
