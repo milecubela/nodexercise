@@ -2,6 +2,7 @@ const mongoose = require('mongoose')
 const Joi = require('joi')
 const jwt = require('jsonwebtoken')
 const config = require('config')
+const _ = require('lodash')
 
 const userSchema = new mongoose.Schema({
     name: {
@@ -23,12 +24,29 @@ const userSchema = new mongoose.Schema({
         minlength: 8,
         maxlength: 1024
     },
-    isAdmin: Boolean
+    isAdmin: Boolean,
+    newsletterSubscription: {
+        type: Boolean,
+        default: false
+    }
 })
 
+// generiranje jwt tokena za usera
 userSchema.methods.generateAuthToken = function() {
     const token = jwt.sign({_id: this._id, isAdmin: this.isAdmin}, config.get('jwtPrivateKey'))
     return token
+}
+
+// Funkcija koja vraća listu mailova koji su subscribani na newsletter
+userSchema.methods.getSubscribedEmails = async function() {
+    const emails = []
+    const users = await User.find({ newsletterSubscription: true})
+
+    users.forEach(user => {
+        emails.push(user.email)
+    })
+    //console.log(emails)
+    return emails
 }
 
 const User = mongoose.model('User', userSchema)

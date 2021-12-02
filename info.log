@@ -68,3 +68,131 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
 {"level":"info","message":"Listening on port 3000"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:18:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:10\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"error","message":"User.newsletterSubscription is not a function User.newsletterSubscription is not a function","stack":"TypeError: User.newsletterSubscription is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:20:25\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/milecubela/skolovanje/express-demo/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/layer.js:95:5)\n    at /home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/milecubela/skolovanje/express-demo/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"Json is not defined Json is not defined","stack":"ReferenceError: Json is not defined\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:24:14\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"transporter.sendMail is not a function transporter.sendMail is not a function","stack":"TypeError: transporter.sendMail is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:30:34\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"sendMails is not a function sendMails is not a function","stack":"TypeError: sendMails is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:31:5\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"sendMails is not a function sendMails is not a function","stack":"TypeError: sendMails is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:31:5\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"sendMails is not a function sendMails is not a function","stack":"TypeError: sendMails is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:31:5\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"sendMails is not a function sendMails is not a function","stack":"TypeError: sendMails is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:31:5\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"error","message":"sendMails is not a function sendMails is not a function","stack":"TypeError: sendMails is not a function\n    at /home/milecubela/skolovanje/express-demo/routes/newsletter.js:31:5\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"https://ethereal.email/message/YakFCfYh9UxpomLiYakFChd0XQjLx6RxAAAAAbDc.UgNLJ6TIxAbJ2rEfCE"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly..."}
